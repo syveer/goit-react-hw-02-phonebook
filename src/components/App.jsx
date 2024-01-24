@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import nanoid from 'nanoid';
 import ContactForm from './ContactForm/ContactForm.jsx';
 import ContactList from './ContactList/ContactList.jsx';
 import Filter from './Filter/Filter.jsx';
